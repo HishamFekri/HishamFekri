@@ -101,3 +101,7 @@ Training pipeline for 4-class Motor Imagery EEG classification using the BCI Com
 ## 🔗 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/hishamjouda) • [GitHub](https://github.com/HishamFekri) • [Email](hishamjouda2003@gmail.com)
+
+## 💭 Mindset
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=Hard%20work%20beats%20talent&desc=To%20finish%20first%2C%20first%20you%20have%20to%20finish%20%E2%80%94%20MC&fontAlignY=35&descAlignY=58&color=0:141e30,100:243b55" />
