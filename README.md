@@ -29,8 +29,7 @@ My work spans backend development, databases, full stack applications, AI powere
 FastAPI • Node.js • Express.js • REST APIs • SQLAlchemy • Alembic
 
 ### Frontend
-React • Vite • Tailwind CSS • Figma
-
+[![Frontend](https://skillicons.dev/icons?i=js,html,css,react,vite,tailwind,figma)](https://skillicons.dev)
 ### Databases
 PostgreSQL • MongoDB
 
