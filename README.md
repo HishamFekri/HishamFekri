@@ -17,6 +17,7 @@ My work spans backend development, databases, full stack applications, AI powere
 ## 🛠️ Languages & Technologies
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
@@ -32,9 +33,14 @@ My work spans backend development, databases, full stack applications, AI powere
 REST APIs • SQLAlchemy • Alembic
 
 ### Frontend
+
 [![Frontend](https://skillicons.dev/icons?i=js,html,css,react,vite,tailwind,figma)](https://skillicons.dev)
+
 ### Databases
-PostgreSQL • MongoDB
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
+
+SQL
 
 ### AI
 RAG • LLM Integration • Embeddings • Semantic Search • Document Processing
