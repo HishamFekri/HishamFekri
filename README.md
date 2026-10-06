@@ -26,7 +26,10 @@ My work spans backend development, databases, full stack applications, AI powere
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 
 ### Backend
-FastAPI • Node.js • Express.js • REST APIs • SQLAlchemy • Alembic
+
+[![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,express)](https://skillicons.dev)
+
+REST APIs • SQLAlchemy • Alembic
 
 ### Frontend
 [![Frontend](https://skillicons.dev/icons?i=js,html,css,react,vite,tailwind,figma)](https://skillicons.dev)
@@ -37,8 +40,8 @@ PostgreSQL • MongoDB
 RAG • LLM Integration • Embeddings • Semantic Search • Document Processing
 
 ### Tools
-Git • GitHub • VS Code • Postman • Unity
 
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,unity)](https://skillicons.dev)
 ---
 
 # 🚀 Projects
