@@ -17,7 +17,13 @@ My work spans backend development, databases, full stack applications, AI powere
 ## 🛠️ Languages & Technologies
 
 ### Languages
-Python • JavaScript • C++ • C# • SQL • HTML • CSS
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 
 ### Backend
 FastAPI • Node.js • Express.js • REST APIs • SQLAlchemy • Alembic
