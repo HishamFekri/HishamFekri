@@ -86,4 +86,4 @@ Training pipeline for 4-class Motor Imagery EEG classification using the BCI Com
 
 ## 🔗 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/hishamjouda) • [GitHub](https://github.com/HishamFekri)
+[LinkedIn](https://www.linkedin.com/in/hishamjouda) • [GitHub](https://github.com/HishamFekri) • [Email](hishamjouda2003@gmail.com)
