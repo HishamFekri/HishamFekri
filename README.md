@@ -2,7 +2,7 @@
 
 Software Engineering graduate based in Istanbul, Türkiye.
 
-I enjoy building practical software products across AI applications, backend systems, full-stack development, and automation.
+I enjoy building practical software products across AI applications, backend systems, full stack development, and automation.
 
 ---
 
@@ -10,7 +10,7 @@ I enjoy building practical software products across AI applications, backend sys
 
 I hold a B.Sc. in Software Engineering from Üsküdar University.
 
-My work spans backend development, databases, full-stack applications, AI-powered systems, and software design. I enjoy turning ideas into working products and focusing on clean, practical implementations.
+My work spans backend development, databases, full stack applications, AI powered systems, and software design. I enjoy turning ideas into working products and focusing on clean, practical implementations.
 
 ---
 
@@ -64,11 +64,9 @@ AI-powered document assistant that allows users to upload documents and interact
 3D physics-based racing prototype where the player controls a ball and races against time and gravity.
 
 ### Highlights
-- Rigidbody-based movement
+- Rigidbody based movement
 - Sprint and gravity-control mechanics
 - Timer and speed systems
-- Pickups
-- Win / lose states
 - Pause and restart systems
 - Sound effects and VFX
 
